@@ -11,7 +11,7 @@
   "os": "os-browserify",
   "path": "path-browserify",
   "querystring": "querystring-es3",
-  "fs": "react-native-level-fs",
+  "fs": "react-native-fs",
   "_stream_transform": "readable-stream/transform",
   "_stream_readable": "readable-stream/readable",
   "_stream_writable": "readable-stream/writable",
